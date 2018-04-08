@@ -1,0 +1,14 @@
+{
+  "external_prediction_set": {
+    "question_id": 660,
+    "external_predictor_attributes": {
+      "method_name": "rezeile_100.00",
+    },
+    "external_predictions_attributes": [
+      {
+        "value": 1,
+        "answer_id": 1955,
+      }
+    ]
+  }
+}
